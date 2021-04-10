@@ -32,7 +32,7 @@ module.exports = {
     {
       resolve: "gatsby-source-strapi",
       options: {
-        apiURL: "http://localhost:1337",
+        apiURL: "http://140.238.85.168:8888",
         contentTypes: [
           "restaurant",
           "category",
